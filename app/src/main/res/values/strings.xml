@@ -4,4 +4,9 @@
     <string name="enter_email">Enter email</string>
     <string name="add">add</string>
     <string name="enter_your_e_mail">Enter your e-mail</string>
+    <string name="upload_files">Upload files</string>
+    <string name="send">Send</string>
+    <string name="body">Body</string>
+    <string name="subject">Subject</string>
+    <string name="speak">speak</string>
 </resources>
