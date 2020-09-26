@@ -19,5 +19,24 @@
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">@android:color/black</item>
     </style>
+    <style name="SplashTheme">splash
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+
+    <style name="text_splash">text_splash
+        <item name="android:textSize"> 46sp</item>
+        <item name="fontFamily">cursive</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textStyle">bold</item></style>
+
+
+    <style name="layout">
+
+    </style>
+
+    <style name="compose">
+
+    </style>
 
 </resources>
